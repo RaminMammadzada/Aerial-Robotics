@@ -8,6 +8,14 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
+additional/
+Coursera Aerial Robotics Lecture Notes/*
+*.mp4
+Week 4/BenCharrow-PhDThesis.pdf
+Week 4/shaojie_shen_thesis.pdf
+Week 4/LeLeMc2010_quadrotor.pdf
+Week 4/daniel_mellinger_thesis.pdf
+
 # Windows Installer files
 *.cab
 *.msi
