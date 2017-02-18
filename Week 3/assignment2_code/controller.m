@@ -25,7 +25,7 @@ phi_des=-(1/params.gravity) * (des_state.acc(1) + Kv_y*(des_state.vel(1)-state.v
 %phi_des=-0.5
 M = params.Ixx*(Kv_phi*(-state.omega) + Kp_phi*(phi_des-state.rot));
 
-% FILL IN YOUR CODE HERE
+% 
 
 end
 
